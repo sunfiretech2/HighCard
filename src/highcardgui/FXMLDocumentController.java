@@ -147,6 +147,7 @@ public class FXMLDocumentController implements Initializable {
         totalBalanceLabel.setText("$" + String.valueOf(balance));
         betButtonDisable();
         disableBetAndClearButtons();
+        
     }
     
      /*
